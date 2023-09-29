@@ -1,0 +1,25 @@
+
+
+/* Element Selektor */
+div{
+    background-color: aquamarine;
+}
+
+
+/* id selektor */
+.header {
+    height: 30vh;
+    background-color: red
+    
+}
+
+
+/* Klaasenselector */
+.text{
+    color: blue;
+}
+
+#text2 {
+    background-color: chocolate;
+    
+}
