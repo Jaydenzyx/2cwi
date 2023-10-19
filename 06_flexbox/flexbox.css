@@ -1,0 +1,15 @@
+.box{
+height: 100px;
+width: 100px;
+background-color: chartreuse;
+margin: 10px;
+}
+
+.container  {
+background-color: darkorchid;
+display: flex;
+height: 100vh;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+}
