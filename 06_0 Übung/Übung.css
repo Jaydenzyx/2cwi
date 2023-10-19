@@ -1,0 +1,26 @@
+.oben {
+    background-color: yellow;
+    height: 70px;
+    display: flex;
+    justify-content: end;
+}
+
+.obox {
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+    margin: 20px;
+    
+}
+
+.mittbox {
+    background: aqua;
+    height: 300px;
+    width: 400px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.rechtbox {
+    
+}
