@@ -1,0 +1,48 @@
+.aqua {
+   position: relative;
+    background-color: aqua;
+    height: 300px;
+    width: 460px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: solid;
+}
+
+
+.brown {
+    background-color: brown;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    right: 0;
+}
+
+
+.gelb {
+    background-color: yellow;
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+.cyan {
+    background-color: cyan;
+    height: 50px;
+    width: 50px;
+    margin: 60px;
+    padding: 20px;
+}
+
+
+.violet {
+    background-color: violet;
+    top: 0;
+    right: 0;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
