@@ -3,6 +3,7 @@
     height: 70px;
     display: flex;
     justify-content: end;
+    border-style: solid;
 }
 
 .obox {
@@ -19,8 +20,26 @@
     width: 400px;
    margin-left: 20px;
    margin-top: 20px;
+   border-style: solid;
+   position: relative;
 }
 
 .rechtbox {
-    
+    background-color: brown;
+    position: absolute;
+    height: 160px;
+    width: 160px;
+    bottom: 0;
+    right: 0;
+}
+
+
+.violetbox {
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    border-style: solid;
 }
