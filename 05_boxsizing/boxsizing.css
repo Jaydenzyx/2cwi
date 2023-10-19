@@ -1,0 +1,17 @@
+*{
+    box-sizing: content-box;
+}
+
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background: rebeccapurple;
+    border-style: solid;
+}
+
+.second {
+    padding: 15px;
+    margin: 10px;
+}
