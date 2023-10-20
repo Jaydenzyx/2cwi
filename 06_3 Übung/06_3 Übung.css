@@ -1,0 +1,71 @@
+.oben {
+    border-style: solid;
+    height: 400px;
+    width: 400px;
+    margin: 30px;
+    position: relative;
+    border-style: solid;
+    }
+    
+    .green {
+    background-color: lightgreen;
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-style: solid;
+    }
+    
+    
+    .lightblue {
+        background-color: lightblue;
+        height: 300px;
+        width: 200px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        border-style: solid;
+    }
+    
+    .orange {
+    background-color: orange;
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    border-style: solid;
+    }
+    
+    
+    .black {
+    position: absolute;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    right: 0;
+    }
+    
+    
+    .links {
+    background-color: lightgray;
+    height: 250px;
+    width: 216px;
+    border-style: solid;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    }
+    
+    
+    
+    .linkorange {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    position: relative;
+    margin: 55px;
+    margin-top: 75px;
+    border-style: solid;
+    }
