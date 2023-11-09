@@ -1,0 +1,16 @@
+.links {
+border-style: solid;
+height: 600px;
+width: 500px;
+display: grid;
+grid-template-columns: 160px 160px 160px;
+justify-content: space-evenly;
+
+}
+
+.box {
+background-color: lightgreen;
+height: 100px;
+width: 100px;
+
+}
