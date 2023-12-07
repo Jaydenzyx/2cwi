@@ -1,11 +1,6 @@
 console.log("Hallo");
 
 
-console.log("Tolle Sache");
-
-
-
-
 // Variablen 
 
 let a = 7;
