@@ -34,4 +34,3 @@ if ((rn1<30)|| (rn2<30)) {
 if ((rn1<50) && (rn2!=50)) {
     console.log("Erste Zahl klein, zweite kein 50iger");
 }
-
