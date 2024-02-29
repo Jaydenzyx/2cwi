@@ -33,7 +33,7 @@ while (!isfinished){
         let Einzahlen = Number(await readLineAsync());
         if (Einzahlen>0) {
             kontostand = kontostand + Einzahlen;
-            console.log("Ihre Einzahlung war Erfolgreich. Neuer Kontostand: " + kontostand);
+            console.log("Ihre Einzahlung war Erfolgreich. Neuer Kontostand: " + kontostand+"€");
         }
      
         else if (Einzahlen!=Number) {
@@ -53,14 +53,14 @@ while (!isfinished){
               console.log("Der Betrag konnte nicht abgehoben werden. Nicht genügend Guthaben vorhanden.");
           } else {
               kontostand -= Abheben;
-              console.log("Erfolgreich abgehoben. Neuer Kontostand: " + kontostand);
+              console.log("Erfolgreich abgehoben. Neuer Kontostand: " + kontostand+"€");
           }
       }
   }
   
 
     if (Selection == 3)
-    console.log("Ihr Kontostand Beträgt:" + kontostand);
+    console.log("Ihr Kontostand Beträgt:" + kontostand+"€");
 
 
     if (Selection == 4){
